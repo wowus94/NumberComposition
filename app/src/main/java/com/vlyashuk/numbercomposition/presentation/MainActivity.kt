@@ -1,8 +1,9 @@
 
-package com.vlyashuk.numbercomposition
+package com.vlyashuk.numbercomposition.presentation
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.vlyashuk.numbercomposition.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
