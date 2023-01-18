@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_tv_title">16dp</dimen>
+    <dimen name="text_size_tv_title">30sp</dimen>
+    <dimen name="margin_start_button">16dp</dimen>
+    <dimen name="margin_end_button">16dp</dimen>
+    <dimen name="margin_tv_required_answers">16dp</dimen>
+    <dimen name="text_size_tv_required_answers">18sp</dimen>
+    <dimen name="text_size_tv_score_answers">18sp</dimen>
+    <dimen name="text_size_tv_required_percentage">18sp</dimen>
+    <dimen name="margin_top_tv_required_percentage">16dp</dimen>
+    <dimen name="margin_top_tv_score_percentage">16dp</dimen>
+    <dimen name="text_size_tv_score_percentage">18sp</dimen>
+    <dimen name="margin_tv_timer">8dp</dimen>
+    <dimen name="text_size_tv_timer">34sp</dimen>
+    <dimen name="layout_width_tv_sum">144dp</dimen>
+    <dimen name="layout_height_tv_sum">144dp</dimen>
+    <dimen name="text_size_tv_answers_progress">16sp</dimen>
+    <dimen name="margin_tv_answers_progress">16dp</dimen>
+    <dimen name="height_iv_logo">150dp</dimen>
+    <dimen name="margin_iv_logo">32dp</dimen>
+    <dimen name="margin_tv_rules_of_the_game">16dp</dimen>
+    <dimen name="text_size_tv_rules_of_the_game">18sp</dimen>
+</resources>

@@ -1,3 +1,28 @@
 <resources>
     <string name="app_name">NumberComposition</string>
+    <string name="question_mark">\?</string>
+    <string name="welcome_title">Number composition</string>
+    <string name="game_rules"><b>
+        Rules of the game: there will be three figures in front you, two below and one above, two of them will contain numbers. It is necessary that the sum of the two lower figures be equal to the number in the top figure, for this you need to insert the missing number.\n\nExample:
+        in the upper circle is the number 7,in one of the lower circles there is a question mark, аnd in another number 4. So in place of the question mark should be the number 3 because 3 + 4 = 7
+   </b></string>
+    <string name="button_understand">OK</string>
+    <string name="welcome_logo">Welcome logo</string>
+    <string name="choose_level_title"><u>Choose a level:</u></string>
+    <string name="easy_level">Easy</string>
+    <string name="normal_level">Normal</string>
+    <string name="hard_level">Hard</string>
+    <string name="test_level">Test</string>
+    <string name="game_over">Game Over</string>
+    <string name="score_answers">Your score: %s</string>
+    <string name="score_percentage">Percentage of correct answers: %s</string>
+    <string name="retry">Try again</string>
+    <string name="right_answers">Percentage of correct answers %s from %s necessary</string>
+    <string name="required_percentage">Required percentage of correct answers: %s</string>
+    <string name="required_score">Required number of correct answers: %s</string>
+    <string name="progress_answers">Correct answers %s (minimum %s)</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="text_tv_timer"><u>00:00</u></string>
+    <string name="text_tv_sum">1</string>
 </resources>
